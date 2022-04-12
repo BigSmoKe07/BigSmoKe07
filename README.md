@@ -70,27 +70,14 @@
 </div>  
   
 
-<br/>  
+<br/>   
 
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=i5x7yt77x5jte18eb4a3o4jjx&cover_image=true&theme=default&bar_color_cover=true" /></div>  
 
 <br/>  
 
   
-
-<br/>  
 
 <div align="center"></div>
 <br />

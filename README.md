@@ -6,7 +6,7 @@
 ### <div align="center">I'm [GuruSaran](https://bigsmoke07.github.io/myportfolio/), a Student of AI  👨‍💻 Developer  since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [OpenSource](https://github.com/BigSmoKe07?tab=repositories)  
+- 🔭 I’m currently working on [🫥](https://github.com/BigSmoKe07?tab=repositories)  
   
 
 - ⚡ Fun fact: I use mouse all time  
@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set and currently learning  
 <table><tr><td valign="top" width="33%">
 
 

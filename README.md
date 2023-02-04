@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm [GuruSaran](https://bigsmoke07.github.io/myportfolio/), a Student of AI  👨‍💻 Developer  since 2020 🚀</div>  
+### <div align="center">I'm [GuruSaran](https://github.com/BigSmoKe07?tab=repositories), a Student of AI  👨‍💻 Developer  since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [🫥](https://github.com/BigSmoKe07?tab=repositories)  

@@ -1,21 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm [GuruSaran](https://github.com/BigSmoKe07?tab=repositories), a Student of AI  👨‍💻 Developer  since 2020 🚀</div>  
-  
-
-- 🔭 I’m currently working on [🫥](https://github.com/BigSmoKe07?tab=repositories)  
-  
-
-- ⚡ Fun fact: I use mouse all time  
-  
-
-<br/>  
-
-
-## My Skill Set and currently learning  
 <table><tr><td valign="top" width="33%">
 
 

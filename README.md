@@ -57,7 +57,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BigSmoke07/BigSmoke07/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BigSmoKe07/BigSmoKe07/output/snake.svg" alt="Snake animation" />
 
 ###
 

@@ -58,7 +58,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BigSmoke07/BigSmoke07/output/snake.svg" alt="Snake animation" />
+<img src="[github-contribution-grid-snake.svg](https://raw.githubusercontent.com/BigSmoKe07/BigSmoKe07/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
 
 ###
 

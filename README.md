@@ -57,11 +57,7 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/BigSmoke07/BigSmoke07/output/snake.svg" alt="Snake animation" />
-</picture>
+<img src="https://raw.githubusercontent.com/BigSmoke07/BigSmoke07/output/snake.svg" alt="Snake animation" />
 ###
 
 <div align="left">

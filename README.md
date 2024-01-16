@@ -52,10 +52,7 @@
   <img src="https://profile-counter.glitch.me/BigSmoke07/count.svg?"  />
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/BigSmoke07/BigSmoke07/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="left">
   <a href="https://www.youtube.com/@TVbigsmoke/featured" target="_blank">

@@ -73,7 +73,10 @@
 ###
 
 <div align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/837186684458106903)](https://discord.com/users/837186684458106903)
+ <h3 align="center">Stats</h3>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/837186684458106903)](https://discord.com/users/837186684458106903)
+
 </div>
 
 ###

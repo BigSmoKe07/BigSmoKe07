@@ -1,9 +1,5 @@
 <p align="center">
   <img
-    src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=i5x7yt77x5jte18eb4a3o4jjx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false"
-  />
-  <br>
-  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigSmoKe07&layout=compact&theme=github_dark&hide_border=true"
   />
   <br>
